@@ -1,0 +1,24 @@
+{
+  "name": "excel-course",
+  "version": "1.0.0",
+  "description": "Excel on native JS",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cod4adm/excel-js.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel"
+  ],
+  "author": "Anatoliy Buryy <cod4adm@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cod4adm/excel-js/issues"
+  },
+  "homepage": "https://github.com/cod4adm/excel-js#readme"
+}
