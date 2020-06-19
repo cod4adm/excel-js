@@ -1,1 +1,3 @@
-console.log('Working!11')
+import './scss/index.scss';
+
+console.log('Prod!');
